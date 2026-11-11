@@ -9,7 +9,7 @@
 ![Asignatura](https://img.shields.io/badge/Asignatura-Diseño_de_Circuitos-green)
 ![Formato](https://img.shields.io/badge/Formato-Portafolio_Académico-purple)
 
-📄 **Documento adjunto:** [Descargar PDF oficial - Cuaderno de Síntesis Unidad 1](./documentos/Cuaderno_de_Sintesis_Unidad_1_Guaman_Alexander.pdf)
+📄 **Documento adjunto:** [Descargar PDF oficial - Cuaderno de Síntesis Unidad 1](./Cuaderno_de_Sintesis_Unidad_1_Guaman_Alexander.pdf)
 
 </div>
 
