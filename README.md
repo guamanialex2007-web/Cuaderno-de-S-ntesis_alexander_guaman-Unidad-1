@@ -1,7 +1,17 @@
+<div align="center">
+
 # 📘 Cuaderno de Síntesis – Unidad 1
-## Diseño de Circuitos | Trabajo individual
+### Diseño de Circuitos | Trabajo individual
 
 **Universidad Nacional de Loja – Carrera de Computación**
+
+![Unidad](https://img.shields.io/badge/Unidad-01-blue)
+![Asignatura](https://img.shields.io/badge/Asignatura-Diseño_de_Circuitos-green)
+![Formato](https://img.shields.io/badge/Formato-Portafolio_Académico-purple)
+
+📄 **Documento adjunto:** [Descargar PDF oficial - Cuaderno de Síntesis Unidad 1](./documentos/Cuaderno_de_Sintesis_Unidad_1_Guaman_Alexander.pdf)
+
+</div>
 
 ---
 
@@ -31,6 +41,77 @@ Este repositorio constituye una evidencia del proceso de aprendizaje y una herra
 
 ---
 
+## 🎯 3. Objetivos
+
+### Objetivo general
+
+Comprender los fundamentos de la lógica combinacional y aplicar procedimientos de análisis, simplificación e implementación de funciones lógicas.
+
+### Objetivos específicos
+
+- Comprender los sistemas de numeración y sus conversiones.
+- Identificar los diferentes códigos digitales.
+- Analizar el funcionamiento de las compuertas lógicas.
+- Aplicar las leyes del álgebra de Boole.
+- Simplificar funciones mediante mapas de Karnaugh.
+- Implementar funciones utilizando compuertas universales.
+- Analizar circuitos aritméticos combinacionales.
+
+---
+
+## 🗂️ 4. Organización de la unidad
+
+| Semana | Contenido principal | Aprendizajes |
+|---|---|---|
+| **Semana 1** | Sistemas numéricos, códigos y compuertas lógicas | Conversión de bases, complemento a dos y tablas de verdad. |
+| **Semana 2** | Álgebra de Boole y formas canónicas | Leyes booleanas, SOP, POS y simplificación. |
+| **Semana 3** | Mapas de Karnaugh y compuertas universales | Minimización e implementación NAND y NOR. |
+| **Semana 4** | Circuitos combinacionales aritméticos | Sumadores, restadores y comparadores. |
+
+---
+
+## 🔢 5. Semana 1 – Sistemas numéricos, códigos y compuertas lógicas
+
+### Descripción
+
+Se estudian los sistemas de numeración utilizados en electrónica digital, las conversiones entre bases, los códigos de representación y el funcionamiento de las compuertas lógicas.
+
+### Contenidos desarrollados
+
+- Sistemas binario, octal, decimal y hexadecimal.
+- Conversiones entre sistemas numéricos.
+- Complemento a dos.
+- Códigos BCD, Gray y ASCII.
+- Compuertas AND, OR, NOT, NAND, NOR, XOR y XNOR.
+- Circuitos integrados de la familia 74LS.
+
+### Ejemplo de conversión
+
+La cantidad decimal 37 puede representarse en diferentes sistemas numéricos:
+
+$$37_{10} = 100101_2 = 45_8 = 25_{16}$$
+
+### Ejemplo de complemento a dos
+
+Representación de **−5 en 8 bits**:
+
+```text
++5        = 00000101
+Invertir  = 11111010
+Sumar 1   = 11111011
+
+Resultado = 11111011
+
+## 📚 2. Presentación
+
+El presente cuaderno de síntesis recopila los conocimientos, conceptos, procedimientos y actividades desarrolladas durante la Unidad 1 de la asignatura **Diseño de Circuitos**.
+
+Su propósito es organizar los aprendizajes relacionados con los sistemas numéricos, códigos digitales, compuertas lógicas, álgebra de Boole, mapas de Karnaugh y circuitos combinacionales.
+
+Este repositorio constituye una evidencia del proceso de aprendizaje y una herramienta de consulta para reforzar los conocimientos adquiridos.
+
+---
+```
 ## 🎯 3. Objetivos
 
 ### Objetivo general
